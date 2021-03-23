@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">App_MultimediaRow</string>
+    <string name="button">Звук</string>
 </resources>
